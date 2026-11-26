@@ -1,0 +1,1 @@
+Лабораторна робота №4–5: перевірка AES-GCM, AES-CBC+HMAC та AES-CTR+HMAC.

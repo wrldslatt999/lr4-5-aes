@@ -1,0 +1,14 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+.aes-lab/
+keystore.json
+*.enc
+*.tampered
+*.dec
+outputs/*
+!outputs/.gitkeep
+.env
+*.key
+*.pem
